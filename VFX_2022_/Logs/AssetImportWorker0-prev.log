@@ -1,0 +1,134 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1526; Version 2009; 64bit' Language: 'en' Physical Memory: 32599 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mijst/Documents/Git/VFX_2022/VFX_2022/VFX_2022_
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59770
+Successfully changed project path to: C:/Users/mijst/Documents/Git/VFX_2022/VFX_2022/VFX_2022_
+C:/Users/mijst/Documents/Git/VFX_2022/VFX_2022/VFX_2022_
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 99.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mijst/Documents/Git/VFX_2022/VFX_2022/VFX_2022_/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   NVIDIA
+    VRAM:     8044 MB
+    Driver:   27.21.14.6179
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56996
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001758 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 94.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.180 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002957 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 96.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3940 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 245.5 MB.
+System memory in use after: 245.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4420.
+Total: 3.290400 ms (FindLiveObjects: 0.368100 ms CreateObjectMapping: 0.324800 ms MarkObjects: 2.494000 ms  DeleteObjects: 0.102100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Shader/SH_Trail.shadergraph
+  artifactKey: Guid(5f2f47b78fec85e4aafa43f73070cb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/SH_Trail.shadergraph using Guid(5f2f47b78fec85e4aafa43f73070cb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660f8043d2c50eb286d070979763ece8') in 0.027727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 88.019215 seconds.
+  path: Assets/Samples/Shader Graph/11.0.0/Procedural Patterns
+  artifactKey: Guid(526476a5ed16e6948bbf958f0d041596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/11.0.0/Procedural Patterns using Guid(526476a5ed16e6948bbf958f0d041596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc520e67e4ea2236a4f01d28642168a0') in 0.008146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.785453 seconds.
+  path: Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Herringbone.ShaderSubGraph
+  artifactKey: Guid(2779352ef2443b545b86854fa838b877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Herringbone.ShaderSubGraph using Guid(2779352ef2443b545b86854fa838b877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d2e4959a5554178a463c2c154957337') in 0.010026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.426821 seconds.
+  path: Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Houndstooth.ShaderSubGraph
+  artifactKey: Guid(67a22abd94d077a4282e47a4cc312992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Houndstooth.ShaderSubGraph using Guid(67a22abd94d077a4282e47a4cc312992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9727bba1361f58acdf0e7e9a6b8ac63') in 0.007837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.403213 seconds.
+  path: Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Bacteria.ShaderSubGraph
+  artifactKey: Guid(804c76ccbe9643147a24f07885bb47ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Bacteria.ShaderSubGraph using Guid(804c76ccbe9643147a24f07885bb47ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b4e27a74784589449db0fc98ac1aad') in 0.008742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.425445 seconds.
+  path: Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Brick.ShaderSubGraph
+  artifactKey: Guid(aa594629bd691e649abe52f379f329b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Brick.ShaderSubGraph using Guid(aa594629bd691e649abe52f379f329b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3da90dcd8df578ae2f809b6950d739') in 0.008164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.953557 seconds.
+  path: Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Grid.ShaderSubGraph
+  artifactKey: Guid(f2ff61a18444547458ea8849584f6bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/Grid.ShaderSubGraph using Guid(f2ff61a18444547458ea8849584f6bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6ec4f4d23df8ce788dc69e71c373a9') in 0.006111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.117388 seconds.
+  path: Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/BacteriaSmoothstep.shadersubgraph
+  artifactKey: Guid(e3991c0bfe9e06945833b46fb6e56055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Shader Graph/11.0.0/Procedural Patterns/BacteriaSmoothstep.shadersubgraph using Guid(e3991c0bfe9e06945833b46fb6e56055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67907d8d8f16bf7f3186cb4cd2f939a') in 0.007714 seconds 
+========================================================================
+Received Prepare
+Switching render pipeline 00000000000000000000000000000000 -> 15b6e0d1ee5b3b1478f2bdfb6d653fca
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.7 MB.
+System memory in use after: 163.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4423.
+Total: 2.790200 ms (FindLiveObjects: 0.263400 ms CreateObjectMapping: 0.218800 ms MarkObjects: 2.245000 ms  DeleteObjects: 0.061800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
