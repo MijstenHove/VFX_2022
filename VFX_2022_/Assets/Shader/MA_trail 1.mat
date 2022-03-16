@@ -89,12 +89,13 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - desolve: -0.21
-    - desolve_scale: 100
+    - desolve: 0
+    - desolve_scale: 0
+    - opasity: 0
     m_Colors:
     - Color2: {r: 12.358215, g: 1.5622647, b: 11.230277, a: 0}
     - _Color: {r: 15.916228, g: 0, b: 15.999998, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - speed: {r: -5, g: 0, b: 0, a: 0}
+    - speed: {r: -2, g: 0, b: 0, a: 0}
     - time_noise: {r: -0.95, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []

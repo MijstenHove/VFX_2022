@@ -89,8 +89,9 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - desolve: -0.21
-    - desolve_scale: 100
+    - desolve: -0.25
+    - desolve_scale: 50
+    - opasity: 0
     m_Colors:
     - Color2: {r: 0.26666668, g: 0, b: 0.23529412, a: 0}
     - _Color: {r: 0.21176471, g: 0, b: 1.4980392, a: 0}

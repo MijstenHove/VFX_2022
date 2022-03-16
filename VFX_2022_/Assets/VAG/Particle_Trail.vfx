@@ -17,9 +17,9 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 682
+    x: 827
     y: -190
-    width: 685
+    width: 539
     height: 1566
 --- !u!114 &114350483966674976
 MonoBehaviour:
@@ -31,7 +31,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7d4c867f6b72b714dbb5fd1780afe208, type: 3}
-  m_Name: Simple Particle System
+  m_Name: Particle_Trail
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 0}
@@ -1598,7 +1598,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614605}
       inputSlot: {fileID: 8926484042661614600}
-    position: {x: 681.32947, y: 1110.3827}
+    position: {x: 827.2, y: 1164}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661614605
@@ -1814,7 +1814,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614611}
       inputSlot: {fileID: 8926484042661614598}
-    position: {x: 740.8, y: 904.8}
+    position: {x: 827.2, y: 956}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661614611
