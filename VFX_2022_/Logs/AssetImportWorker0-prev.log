@@ -15,11 +15,11 @@ C:/Users/mijst/Documents/Git/VFX_2022/VFX_2022/VFX_2022_
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51713
+59724
 Successfully changed project path to: C:/Users/mijst/Documents/Git/VFX_2022/VFX_2022/VFX_2022_
 C:/Users/mijst/Documents/Git/VFX_2022/VFX_2022/VFX_2022_
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 149.57 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 135.04 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -36,237 +36,155 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56744
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002158 seconds.
+Registered in 0.002249 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 106.93 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 128.66 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.221 seconds
+- Completed reload, in  1.565 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002990 seconds.
+Registered in 0.003403 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 108.71 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 124.67 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.244 seconds
+- Completed reload, in  1.514 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4471 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 262.9 MB.
-System memory in use after: 263.1 MB.
+System memory in use before: 263.4 MB.
+System memory in use after: 263.6 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4951.
-Total: 2.965200 ms (FindLiveObjects: 0.501800 ms CreateObjectMapping: 0.308500 ms MarkObjects: 2.060100 ms  DeleteObjects: 0.093400 ms)
+Total: 3.851400 ms (FindLiveObjects: 0.479900 ms CreateObjectMapping: 0.384000 ms MarkObjects: 2.856800 ms  DeleteObjects: 0.129400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Art/pa.mat
-  artifactKey: Guid(27cd9a369b54e264a802ca03fe0d301e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/pa.mat using Guid(27cd9a369b54e264a802ca03fe0d301e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369de1ba29a446860f140db52a1db025') in 0.249403 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002742 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.068 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4399 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 263.0 MB.
-System memory in use after: 263.2 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5032.
-Total: 2.579400 ms (FindLiveObjects: 0.326900 ms CreateObjectMapping: 0.280100 ms MarkObjects: 1.863400 ms  DeleteObjects: 0.107800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003169 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.082 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4399 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 263.1 MB.
-System memory in use after: 263.3 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5035.
-Total: 2.891800 ms (FindLiveObjects: 0.440900 ms CreateObjectMapping: 0.289300 ms MarkObjects: 2.057800 ms  DeleteObjects: 0.102500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1939.615726 seconds.
-  path: Assets/Shader/SH_DEpth.shadergraph
-  artifactKey: Guid(f569e02acbb5b8c499a21d0ca4d647f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader/SH_DEpth.shadergraph using Guid(f569e02acbb5b8c499a21d0ca4d647f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6243a3b40004a4850d2ab4f6f75c167b') in 0.063589 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.399841 seconds.
-  path: Assets/Shader/MA_Depth.mat
-  artifactKey: Guid(659f2a9486b0e1149a4e9bb01232281e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader/MA_Depth.mat using Guid(659f2a9486b0e1149a4e9bb01232281e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5a37365c9b385ce9eb4783b2462c13') in 0.206046 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 18.603410 seconds.
-  path: Assets/Art/Materials/MA_leef.mat
-  artifactKey: Guid(6fa692669425c78469d35e0e97394b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Materials/MA_leef.mat using Guid(6fa692669425c78469d35e0e97394b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a856901ce90fd687893682d82b7c871') in 0.021869 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 101.001980 seconds.
-  path: Assets/Art/pa.mat
-  artifactKey: Guid(27cd9a369b54e264a802ca03fe0d301e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/pa.mat using Guid(27cd9a369b54e264a802ca03fe0d301e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2138c28e24b9969cbb5bc5e442f71120') in 0.020505 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003622 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.946 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4399 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 263.2 MB.
-System memory in use after: 263.4 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5074.
-Total: 2.377700 ms (FindLiveObjects: 0.305700 ms CreateObjectMapping: 0.237700 ms MarkObjects: 1.767000 ms  DeleteObjects: 0.066400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004576 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.658 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4399 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 263.2 MB.
-System memory in use after: 263.4 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5077.
-Total: 3.498800 ms (FindLiveObjects: 0.423700 ms CreateObjectMapping: 0.374400 ms MarkObjects: 2.598100 ms  DeleteObjects: 0.101000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003046 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.952 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4399 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 263.1 MB.
-System memory in use after: 263.4 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5080.
-Total: 2.741700 ms (FindLiveObjects: 0.339800 ms CreateObjectMapping: 0.411900 ms MarkObjects: 1.879800 ms  DeleteObjects: 0.108900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 7939.590309 seconds.
-  path: Assets/Shader/MA_Depth.mat
-  artifactKey: Guid(659f2a9486b0e1149a4e9bb01232281e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader/MA_Depth.mat using Guid(659f2a9486b0e1149a4e9bb01232281e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb6a899242385bb24cc115a1daacc21') in 0.176618 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 29.896273 seconds.
-  path: Assets/Art/cirvle.png
-  artifactKey: Guid(c8522d1bcb088e041a672b63561bc625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/cirvle.png using Guid(c8522d1bcb088e041a672b63561bc625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f546e39a666f88cbc8f7872e52922d0b') in 0.042686 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.993588 seconds.
-  path: Assets/Art/cirvle 1.png
-  artifactKey: Guid(bd8eae0d0459d3b4793e34ed2e94915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/cirvle 1.png using Guid(bd8eae0d0459d3b4793e34ed2e94915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc9a73a2c856b4533d21fd30b72fa9af') in 0.020594 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.856656 seconds.
-  path: Assets/Art/cirvle 1.png
-  artifactKey: Guid(bd8eae0d0459d3b4793e34ed2e94915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/cirvle 1.png using Guid(bd8eae0d0459d3b4793e34ed2e94915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f8b75c997747e323e0513fb4afc061') in 0.024942 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.622965 seconds.
-  path: Assets/Art/pa.mat
-  artifactKey: Guid(27cd9a369b54e264a802ca03fe0d301e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/pa.mat using Guid(27cd9a369b54e264a802ca03fe0d301e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e158016252dc2ce85cfb2c690110766') in 0.022538 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 632.503921 seconds.
-  path: Assets/Art/cirvle2.png
-  artifactKey: Guid(2584ccc2a2c7e0f4e921cab6de239d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/cirvle2.png using Guid(2584ccc2a2c7e0f4e921cab6de239d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d823e94d2d32a7eee57ced3bc4f23b') in 0.013927 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 176.366241 seconds.
   path: Assets/Art/pa 1.mat
   artifactKey: Guid(36170d32dab888743a74bb0671b78558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/pa 1.mat using Guid(36170d32dab888743a74bb0671b78558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43426215375b7fab6a1d7cd67ff335c8') in 0.020014 seconds 
+Start importing Assets/Art/pa 1.mat using Guid(36170d32dab888743a74bb0671b78558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a15c496f4d81e0b9f21fd007eef05fe9') in 0.290398 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 633.092278 seconds.
+  Time since last request: 1022.472063 seconds.
+  path: Assets/Art/pa 1.mat
+  artifactKey: Guid(36170d32dab888743a74bb0671b78558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/pa 1.mat using Guid(36170d32dab888743a74bb0671b78558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8faf5ce1131e6499e6fdf34e3652e5') in 0.030601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Art/pa.mat
+  artifactKey: Guid(27cd9a369b54e264a802ca03fe0d301e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/pa.mat using Guid(27cd9a369b54e264a802ca03fe0d301e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c585dfc0f8b7457ede189af689d57108') in 0.022655 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003448 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.041 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 263.6 MB.
+System memory in use after: 263.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5032.
+Total: 4.472000 ms (FindLiveObjects: 0.499200 ms CreateObjectMapping: 0.438800 ms MarkObjects: 3.402500 ms  DeleteObjects: 0.129500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003854 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.831 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 263.6 MB.
+System memory in use after: 263.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5035.
+Total: 5.245100 ms (FindLiveObjects: 0.436300 ms CreateObjectMapping: 0.394100 ms MarkObjects: 4.297000 ms  DeleteObjects: 0.116000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1879.880287 seconds.
+  path: Packages/com.unity.ide.rider/package.json
+  artifactKey: Guid(66c95bb3c74257f41bae2622511dc02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.rider/package.json using Guid(66c95bb3c74257f41bae2622511dc02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4a619633d990aea18c7bdbb32fc4d0') in 0.096146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.876148 seconds.
+  path: Packages/com.unity.render-pipelines.core/package.json
+  artifactKey: Guid(753d1ac2429a21a44ac5f937cbbb409f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/package.json using Guid(753d1ac2429a21a44ac5f937cbbb409f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffbcc5705cfba8307f3632fbeb29962') in 0.013530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.356459 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06ded69972a14125a7008ede59161a04') in 0.012930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 765.339445 seconds.
+  path: Assets/Art/Materials/MA_Trail.mat
+  artifactKey: Guid(b8655ab2c7e413b4f8c44ca43eb20768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Materials/MA_Trail.mat using Guid(b8655ab2c7e413b4f8c44ca43eb20768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850de8fda32991aa64ac0ecd13b13051') in 0.217730 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004549 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\mijst\Documents\Git\VFX_2022\VFX_2022\VFX_2022_\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.688 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 263.8 MB.
+System memory in use after: 264.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5074.
+Total: 4.030300 ms (FindLiveObjects: 0.456000 ms CreateObjectMapping: 0.465300 ms MarkObjects: 3.001500 ms  DeleteObjects: 0.105800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1583.091024 seconds.
   path: Assets/Art/Materials/MA_leef.mat
   artifactKey: Guid(6fa692669425c78469d35e0e97394b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Materials/MA_leef.mat using Guid(6fa692669425c78469d35e0e97394b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b3545a8daedbb86d10ace42933efbd') in 0.018432 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.753454 seconds.
-  path: Assets/Shader/SH_DEpth.shadergraph
-  artifactKey: Guid(f569e02acbb5b8c499a21d0ca4d647f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader/SH_DEpth.shadergraph using Guid(f569e02acbb5b8c499a21d0ca4d647f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c29d3b055828a7dee0d49bff9e4ba9') in 0.004445 seconds 
+Start importing Assets/Art/Materials/MA_leef.mat using Guid(6fa692669425c78469d35e0e97394b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '684efbeaa62976caf0984e7fc0a770b3') in 0.299195 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
