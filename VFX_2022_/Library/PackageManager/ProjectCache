@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637828092372110444
-    m_Hash: 256989376
+      ticks: 637837374434098665
+    m_Hash: 1748663194
   m_LockFileStatus:
     m_FilePath: C:/Users/mijst/Documents/Git/VFX_2022/VFX_2022/VFX_2022_/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637828092372214606
-    m_Hash: 116405992
+      ticks: 637837374434103616
+    m_Hash: 359297846
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -218,13 +218,15 @@ m_ResolvedPackages:
     - 3.0.9
     - 3.0.10
     - 3.0.12
+    - 3.0.13
     compatible:
     - 3.0.6
     - 3.0.7
     - 3.0.9
     - 3.0.10
     - 3.0.12
-    verified: 3.0.12
+    - 3.0.13
+    verified: 3.0.13
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -3605,11 +3607,13 @@ m_ResolvedPackages:
     - 4.6.0-preview
     - 4.7.0-preview
     - 4.9.1
+    - 4.9.2
     compatible:
     - 4.3.2
     - 4.6.0-preview
     - 4.7.0-preview
     - 4.9.1
+    - 4.9.2
     verified: 4.3.2
   dependencies: []
   resolvedDependencies: []
